@@ -5,10 +5,7 @@ using System.IO;
 
 namespace ArdalisRating
 {
-    /// <summary>
-    /// The RatingEngine reads the policy application details from a file and produces a numeric 
-    /// rating value based on the details.
-    /// </summary>
+  
     public class RatingEngine
     {
         public decimal Rating { get; set; }
