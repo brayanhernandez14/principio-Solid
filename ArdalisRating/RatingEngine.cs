@@ -5,7 +5,8 @@ using System.IO;
 
 namespace ArdalisRating
 {
-   
+
+
     public class RatingEngine
     {
         public decimal Rating { get; set; }
